@@ -1,0 +1,10 @@
+# Secretos y datos personales
+.env
+*.xlsx
+!inventory_example.xlsx
+
+# Entornos virtuales y caches
+venv/
+.venv/
+__pycache__/
+*.pyc
