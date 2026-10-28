@@ -1,4 +1,5 @@
 # Home Inventory Bot
+[![CI](https://github.com/charles030992/home-inventory-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/charles030992/home-inventory-bot/actions/workflows/ci.yml)
 
 Estado: funcional (prototipo)
 
